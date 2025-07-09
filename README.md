@@ -1,13 +1,13 @@
-<h1 align="center">Hola 👋, soy Brayan Sanchez (VRDARK33)</h1>
-<h3 align="center">Ingeniero en Sistemas | Comprometido con la tecnología, el aprendizaje continuo y la excelencia profesional</h3>
+<h1 align="center">Hi 👋, I'm Brayan Sanchez (VRDARK33)</h1>
+<h3 align="center">Systems Engineer | Committed to technology, continuous learning, and professional excellence</h3>
 
 ---
 
-💼 Profesional del área tecnológica con formación sólida en ingeniería de sistemas y enfoque en la resolución de problemas complejos  
-⚙️ Conocimientos en lógica computacional, estructuras de datos, metodologías ágiles y buenas prácticas de desarrollo  
-🔍 Interés por la optimización de procesos, análisis de información, eficiencia en entornos tecnológicos y desarrollo de software de calidad  
-🧠 En constante evolución, con pensamiento crítico, enfoque práctico y compromiso con la mejora continua  
-📫 Contacto: **brayan54sd@gmail.com**
+💼 Technology professional with a solid background in systems engineering and a focus on solving complex problems  
+⚙️ Knowledgeable in computational logic, data structures, agile methodologies, and clean development practices  
+🔍 Interested in process optimization, information analysis, technological efficiency, and high-quality software development  
+🧠 Constantly evolving, with critical thinking, practical focus, and a strong commitment to continuous improvement  
+📫 Contact: **brayan54sd@gmail.com**
 
 <p>
   <a href="https://www.linkedin.com/in/brayan-sanchez" target="_blank">
@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Tecnologías y herramientas
+### 🚀 Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -49,5 +49,5 @@
 
 ---
 
-### 📌 Frase que me representa
-> **“El esfuerzo y la disciplina tarde o temprano superan al talento.”**
+### 📌 Quote that inspires me
+> **"Effort and discipline will eventually surpass talent."**
