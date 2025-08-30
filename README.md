@@ -1,6 +1,6 @@
-¡Perfecto! 🚀 Te dejo tu mismo perfil traducido y adaptado al español, manteniendo el mismo estilo profesional:
 
-<h1 align="center">Hola 👋, soy Brayan Sanchez (VRDARK33)</h1> <h3 align="center">Ingeniero en Sistemas | Comprometido con la tecnología, el aprendizaje continuo y la excelencia profesional</h3>
+<h1 align="center">Hola 👋, soy Brayan Sanchez (VRDARK33)</h1> 
+<h3 align="center">Ingeniero en Sistemas | Comprometido con la tecnología, el aprendizaje continuo y la excelencia profesional</h3>
 
 💼 Profesional en tecnología con una sólida formación en ingeniería de sistemas y enfoque en la resolución de problemas complejos
 ⚙️ Conocimientos en lógica computacional, estructuras de datos, metodologías ágiles y prácticas de desarrollo limpio
