@@ -8,13 +8,11 @@
 🔍 Interested in process optimization, information analysis, technological efficiency, and high-quality software development  
 🧠 Constantly evolving, with critical thinking, practical focus, and a strong commitment to continuous improvement  
 📫 Contact: **brayan54sd@gmail.com**
+[Mi LinkedIn](https://www.linkedin.com/in/brayan-sanchez-405a37263)
 
 
-<p>
-  <a href="www.linkedin.com/in/brayan-sanchez-405a37263" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+
+
 
 ---
 
